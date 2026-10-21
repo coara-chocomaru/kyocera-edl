@@ -72,8 +72,6 @@ python tool.py info
 python tool.py --debug info
 ```
 
-個別の必須引数はありません。
-
 ## `dump` eMMCの読み出し
 
 ### 構文
