@@ -7,8 +7,8 @@
 
 外部SDカードに [NOTPUSH](./NOTPUSH) を配置して端末を起動すると、Kyocera EDLモードになります。
 
-- 0x0482
-- 0x0a7f
+- 0x0482 vid
+- 0x0a7f pid
 
 
 ### Fastbootモードで起動する場合
