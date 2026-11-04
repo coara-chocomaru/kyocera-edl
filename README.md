@@ -256,7 +256,7 @@ python tool.py verify --help
 
 ## 実行前の注意
 
-- `flash --full` はeMMC全体を書き換える操作です。必要なデータのバックアップと対象デバイスの確認を行ってください。
+- `flash --full` はeMMC全体を書き換える操作です。必要なデータのバックアップを行ってください。
 - `erase` および `flash --erase` はデータを失う可能性があります。
 - `--partition` に指定する名前は、実際にデバイスのGPTに存在する名前を使用してください。
 - `--no-guard` はWindowsのMountGuard自動起動を抑止するオプションです。MountGuardによる保護処理も実行されなくなるため、目的を理解したうえで使用してください。
